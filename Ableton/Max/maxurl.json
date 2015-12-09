@@ -1,6 +1,6 @@
 {
 	"filename_out": "/Users/jeff/Dropbox/Marbles/Musical Staircase/Ableton/Max/notesread.json",
-	"url": "http://www.jeffhighsmith.com/notes.json",
+	"url": "http://localhost/staircase/Musical-Staircase-Web/getNotes.php",
 	"parse_type": "json",
 	"overwrite_output_file": "1",
 	"response_dict": "urlresponse",
